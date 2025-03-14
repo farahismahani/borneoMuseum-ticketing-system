@@ -66,4 +66,4 @@ Developed by:
 - farah ismahani
 - abdul mujar
 
-Special thanks to UNIMAS, Dr Rehman and the Laravel community.  
+Special thanks to UNIMAS, Dr Rehman Ullah Khan and the Laravel community.  
