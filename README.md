@@ -56,12 +56,12 @@ Tech Stack
 
 
 Screenshots / Demo  
+🖼️ Light & Dark Mode Toggle ![image](https://github.com/user-attachments/assets/1108c9c7-5c36-4814-9372-a2dd37bb879d)
+
+🖼️ Ticket Page ![image](https://github.com/user-attachments/assets/1617357e-34f8-463a-9e88-1c0a2321a4f8)
+
 🖼️ Booking Page UI ![image](https://github.com/user-attachments/assets/1f7e1d4b-41be-4808-9510-1794116035d5)
-🖼️ Light & Dark Mode Toggle ![image](https://github.com/user-attachments/assets/1672476a-f4bc-4846-b8d6-b95c4cee3e94)
-🖼️ About Page ![image](https://github.com/user-attachments/assets/d0a1df09-d19b-4f15-ac19-bc62e69662c0)
 
-
- 👥 7. Author / Credits  
 Developed by:  
 - farah ismahani
 - abdul mujar
